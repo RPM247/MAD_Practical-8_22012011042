@@ -1,1 +1,1 @@
-# MAD_Practical-8_22012011042
+AIM: Create a Simple iOS application
